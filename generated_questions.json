@@ -1,0 +1,62 @@
+{
+    "Full Stack": [
+        "1. Can you explain the difference between a client-side and server-side framework in the context of Full Stack development?",
+        "2. What is your experience with building RESTful APIs using a Full Stack framework like Node.js or Ruby on Rails? Can you walk me through the process of creating an API from scratch?",
+        "3. How do you handle routing in your Full Stack projects? Can you give an example of a complex routing setup you have implemented?",
+        "4. Can you discuss your experience with databases in the context of Full Stack development? What database systems have you worked with and what are their strengths and weaknesses?",
+        "5. How do you approach testing in your Full Stack projects? Can you explain your experience with testing frameworks like Jest, Mocha, or RSpec?",
+        "6. Can you discuss your experience with version control systems like Git? How do you use Git in your development workflow?",
+        "7. How do you handle authentication and authorization in your Full Stack projects? Can you explain your experience with OAuth and JWT?",
+        "8. Can you discuss your experience with front-end frameworks like React, Angular, or Vue.js? How have you integrated these frameworks into your Full Stack projects?",
+        "9. How do you approach performance optimization in your Full Stack projects? Can you give an example of a time when you had to optimize a particularly slow application?",
+        "10. Can you discuss your experience with deploying Full Stack applications to production environments? What tools have you used and what were some of the challenges you faced?"
+    ],
+    "Data Science": [
+        "1. Can you explain the difference between supervised and unsupervised learning, and provide examples of each?",
+        "2. How would you approach a problem where you are given a large dataset with missing values? What techniques would you use to handle missing data?",
+        "3. Could you walk me through the process of building a predictive model using a machine learning algorithm of your choice? What metrics would you use to evaluate its performance?",
+        "4. How would you handle a situation where the data is not normally distributed? What techniques could you use to transform the data to make it more suitable for analysis?",
+        "5. Can you explain the concept of overfitting and underfitting in machine learning? How can you prevent overfitting in a model?",
+        "6. How would you approach a problem where you have multiple features that are highly correlated? What techniques could you use to handle this situation?",
+        "7. Could you explain the concept of cross-validation and its importance in machine learning? How would you implement it in Python using scikit-learn?",
+        "8. How would you approach a problem where you have a time series dataset? What techniques could you use to analyze the data and make predictions?",
+        "9. Could you explain the difference between a decision tree and a random forest? In what situations would you use each algorithm?",
+        "10. How would you approach a problem where you have a large number of features and you need to select the most important ones? What techniques could you use to perform feature selection?"
+    ],
+    "Software Engineer": [
+        "1. Can you explain the difference between procedural and object-oriented programming? Which one do you prefer and why?",
+        "2. How does version control systems like Git work? Can you describe a common workflow for using Git in a team?",
+        "3. Can you explain the concept of Big O notation and how it is used to analyze the time complexity of algorithms?",
+        "4. How does the event loop work in Node.js? Can you explain the difference between synchronous and asynchronous code in Node.js?",
+        "5. Can you explain the concept of recursion and provide an example of a problem that can be solved using recursion?",
+        "6. Can you explain the difference between a shallow copy and a deep copy in JavaScript? How would you create each type of copy?",
+        "7. Can you explain the concept of design patterns and provide an example of a design pattern that you have used in your projects?",
+        "8. Can you explain the difference between SQL and NoSQL databases? When would you use each type of database?",
+        "9. Can you explain the concept of RESTful APIs and provide an example of how to create a simple RESTful API using Node.js and Express?",
+        "10. Can you explain the concept of testing in software development? What are some popular testing frameworks and libraries in JavaScript? Can you provide an example of writing a test using Mocha and Chai?"
+    ],
+    "Backend": [
+        "1. Can you explain the difference between a REST and a GraphQL API, and when would you use each one?",
+        "2. How would you design a database schema for an e-commerce application, including tables for users, products, orders, and payments?",
+        "3. Can you describe the process of building an authentication system using JWT tokens and Passport.js in a Node.js application?",
+        "4. How would you implement server-side caching to improve the performance of a frequently accessed endpoint?",
+        "5. Can you explain the concept of middleware in Node.js and give an example of a custom middleware function?",
+        "6. How would you handle error handling and logging in a production Node.js application?",
+        "7. Can you explain the difference between synchronous and asynchronous code, and how would you write asynchronous code using callbacks, promises, or async/await?",
+        "8. How would you implement real-time updates using WebSockets or Server-Sent Events?",
+        "9. Can you describe the process of deploying a Node.js application to a production environment using a service like AWS Elastic Beanstalk or Heroku?",
+        "10. How would you approach optimizing the performance of a slow API endpoint, including profiling, caching, and database optimization?"
+    ],
+    "Cloud": [
+        "1. Can you explain the difference between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) in the context of cloud computing?",
+        "2. How would you design a scalable and highly available architecture on AWS or Azure? What services would you use?",
+        "3. Can you describe a time when you had to troubleshoot a performance issue in a cloud environment? What steps did you take to identify and resolve the issue?",
+        "4. How do you approach security in a cloud environment? What best practices do you follow to ensure the security of applications and data in the cloud?",
+        "5. Can you explain how load balancing works in a cloud environment? What are the benefits of using a load balancer?",
+        "6. How do you handle data backups and disaster recovery in a cloud environment? What strategies do you recommend for ensuring data availability and durability?",
+        "7. Can you discuss your experience with containerization technologies like Docker and Kubernetes in a cloud environment? How have you used them to deploy and manage applications?",
+        "8. How do you monitor and manage the cost of cloud services? What tools and strategies do you use to optimize cloud spending?",
+        "9. Can you describe a complex migration project you have worked on from an on-premises environment to a cloud environment? What challenges did you encounter and how did you address them?",
+        "10. How do you approach testing and continuous integration in a cloud environment? What tools and strategies do you use to ensure the reliability and availability of applications in the cloud?"
+    ]
+}
