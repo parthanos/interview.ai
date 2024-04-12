@@ -1,0 +1,46 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+}
+.home-contents{
+    max-width: 60vw;
+    text-align: center;
+    
+}
+.home-button{
+    background-color: white;
+    border-radius: 20px;
+    height: 2rem;
+    min-width: 6rem;
+    border-width: 1px;
+    margin: 1rem;
+    cursor: pointer;
+    padding: 0 1rem;
+    font-size: 18px;
+    
+}
+.home-button:hover{
+    background-color: rgb(225, 226, 234);
+    
+}
+.ques-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+}
+.main-content{
+    position: absolute;
+    position: fixed;
+    top: 0rem;
+    width: 90vw;
+    align-items: center;
+    box-shadow: 0 12px 48px 0px rgb(109 117 141 / 20%);
+  background: rgb(255 255 255);
+  border: 0.5px solid rgb(231 233 245);
+  border-radius: 16px;
+  min-height: 4rem;
+  padding: 1rem;
+}
