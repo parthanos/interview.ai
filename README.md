@@ -14,7 +14,6 @@ This is the submission for TechShilla.
 
 ### Prerequisites
 
-- Python 3.8+
 - PyTorch 1.8.1+
 - NumPy
 - librosa
